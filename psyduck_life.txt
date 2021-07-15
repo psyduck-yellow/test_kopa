@@ -3,7 +3,11 @@ duck
 water
 psychic
 yadon is my friend
+<<<<<<< HEAD
 fire
+=======
+satoshi
+>>>>>>> rename
 pikachu
 kasumi
 takeshi
