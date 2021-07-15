@@ -3,10 +3,7 @@ duck
 water
 psychic
 yadon is my friend
-<<<<<<< HEAD
 satoshi
 pikachu
 kasumi
 takeshi
-=======
->>>>>>> parent of a01f6c1 (add fire)
