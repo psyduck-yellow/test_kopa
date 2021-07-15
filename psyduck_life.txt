@@ -1,6 +1,3 @@
 yellow
-<<<<<<< HEAD
-yadon
-=======
 duck
->>>>>>> master
+water
