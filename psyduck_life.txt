@@ -1,2 +1,6 @@
 yellow
+<<<<<<< HEAD
 yadon
+=======
+duck
+>>>>>>> master
