@@ -1,8 +1,6 @@
-yellow
-duck
-water
-psychic
+color : yellow
+category : duck
+type : water
+skil : psychic
 yadon is my friend
-pikachu
-kasumi
-takeshi
+members : pikachu,kasumi,takeshi,satoshi
